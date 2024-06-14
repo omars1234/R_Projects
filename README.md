@@ -1,9 +1,9 @@
 # *R_Projcts*
 
-* [AutoMobilePricesAnalysis-Markdown](https://github.com/omars1234/R_Projects/blob/a0a5402cc659c5e4d3c9c719946832eeb53fbec3/R_Projects/Insurance_Rating_Analysis/insurance_data.Rmd)  
+* [AutoMobilePricesAnalysis-Markdown](https://github.com/omars1234/R_Projects/blob/06e4ad905c8fa826ff9ef15e45f7de677bfba1e8/R_Projects/AutoMobilePricesAnalysis/AutoMobilePricesAnalysis.Rmd)  
 
 
-* [AutoMobilePricesAnalysis-Rpubs link](https://github.com/omars1234/R_Projects/blob/a0a5402cc659c5e4d3c9c719946832eeb53fbec3/R_Projects/Insurance_Rating_Analysis/insurance_data.md) 
+* [AutoMobilePricesAnalysis-Rpubs link](https://github.com/omars1234/R_Projects/blob/06e4ad905c8fa826ff9ef15e45f7de677bfba1e8/R_Projects/AutoMobilePricesAnalysis/AutoMobilePricesAnalysis.md) 
 
 
 **------------------------------------------------------------------------------------------------------------------------------------** 
