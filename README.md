@@ -3,7 +3,9 @@
 * [AutoMobilePricesAnalysis-Markdown](https://github.com/omars1234/R_Projects/blob/06e4ad905c8fa826ff9ef15e45f7de677bfba1e8/R_Projects/AutoMobilePricesAnalysis/AutoMobilePricesAnalysis.Rmd)  
 
 
-* [AutoMobilePricesAnalysis-Rpubs link](https://github.com/omars1234/R_Projects/blob/21ebed79344a7eaade8c5a140de0a20440f1cb17/R_Projects/AutoMobilePricesAnalysis/AutoMobilePricesAnalysis.md) 
+* *To access the project online on Rpubs Web ,Click on the below link*
+
+  [*AutoMobilePricesAnalysis-http://rpubs.com/omars/1196926*](http://rpubs.com/omars/1196926)
 
 
 **------------------------------------------------------------------------------------------------------------------------------------** 
