@@ -13,7 +13,9 @@
 * [Insurance_Rating_Analysis-Markdown](https://github.com/omars1234/R_Projects/blob/a0a5402cc659c5e4d3c9c719946832eeb53fbec3/R_Projects/Insurance_Rating_Analysis/insurance_data.Rmd)  
 
 
-* [Insurance_Rating_Analysis-Rpubs link](https://github.com/omars1234/R_Projects/blob/a0a5402cc659c5e4d3c9c719946832eeb53fbec3/R_Projects/Insurance_Rating_Analysis/insurance_data.md) 
+* *To access the project online on Rpubs Web ,Click on the below link*
+
+  [*Insurance_Rating_Analysis-http://rpubs.com/omars/1140802*](http://rpubs.com/omars/1140802)
 
 
 **------------------------------------------------------------------------------------------------------------------------------------** 
@@ -21,7 +23,9 @@
 
 * [Motor_Claims Reserve-Markdown](https://github.com/omars1234/R_Projects/blob/a0a5402cc659c5e4d3c9c719946832eeb53fbec3/R_Projects/Motor_Claims%20Reserve/Claims-Reserved.Rmd)
 
-* [Motor_Claims Reserve-Rpubs link](https://github.com/omars1234/R_Projects/blob/a0a5402cc659c5e4d3c9c719946832eeb53fbec3/R_Projects/Motor_Claims%20Reserve/Motor_Claims_Reserve.md)
+* *To access the project online on Rpubs Web ,Click on the below link*
+
+  [*Motor_Claims Reserve-http://rpubs.com/omars/1008930*](http://rpubs.com/omars/1008930)
 
 
 **------------------------------------------------------------------------------------------------------------------------------------**
